@@ -1,11 +1,12 @@
 # open-leads-data
 
+**Live, continuously-updating version: [ayepin.com/open-leads](https://ayepin.com/open-leads)**
+
 How many local businesses, by country and trade, currently have no real website — computed from
 [Overture Maps Foundation](https://overturemaps.org) open data.
 
-This repo is a periodic snapshot. The live, continuously-updating version (recomputed monthly as
-Overture releases new data) is at **[ayepin.com/open-leads](https://ayepin.com/open-leads)**, where
-each country/trade pair also has its own page with a per-city breakdown.
+This repo is a periodic snapshot of that same data. The live site (recomputed monthly as Overture
+releases new data) also gives each country/trade pair its own page with a per-city breakdown.
 
 ## What's in here
 
