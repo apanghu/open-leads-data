@@ -1,0 +1,668 @@
+[
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": 36,
+    "businessesFound": 1034,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": 93,
+    "businessesFound": 1268,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": 87,
+    "businessesFound": null,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T04:40:29.015Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": 170,
+    "businessesFound": 1265,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": 765,
+    "businessesFound": 2053,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 15,
+    "businessesFound": 1083,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": 2,
+    "businessesFound": 163,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": 14,
+    "businessesFound": 382,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": 18,
+    "businessesFound": 324,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": 109,
+    "businessesFound": 1933,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": 366,
+    "businessesFound": 5339,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": 259,
+    "businessesFound": 3050,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "general-contractors",
+    "label": "General contractors",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": 229,
+    "businessesFound": 2058,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": 1350,
+    "businessesFound": 4455,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 199,
+    "businessesFound": 4556,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": 8,
+    "businessesFound": 237,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": 43,
+    "businessesFound": 656,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": 25,
+    "businessesFound": 770,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": 1855,
+    "businessesFound": 7312,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": 875,
+    "businessesFound": 4750,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": 3436,
+    "businessesFound": null,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T04:39:22.198Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": 702,
+    "businessesFound": 4379,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": 3988,
+    "businessesFound": 9336,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 965,
+    "businessesFound": 5457,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": 147,
+    "businessesFound": 622,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": 1473,
+    "businessesFound": 3576,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": 56,
+    "businessesFound": 564,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "ID",
+    "niche": "restaurants",
+    "label": "Restaurants",
+    "count": 43195,
+    "businessesFound": null,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T04:52:51.099Z"
+  },
+  {
+    "country": "IE",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IE",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "IN",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "NZ",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": 42,
+    "businessesFound": 502,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": 24,
+    "businessesFound": 562,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": 241,
+    "businessesFound": 659,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 12,
+    "businessesFound": 272,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": 2,
+    "businessesFound": 13,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:16:06.088Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": 4,
+    "businessesFound": 63,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 17,
+    "businessesFound": 143,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "SG",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": null,
+    "businessesFound": null,
+    "release": null,
+    "computedAt": null
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "count": 1577,
+    "businessesFound": 8631,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "count": 2955,
+    "businessesFound": 17554,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "count": 3424,
+    "businessesFound": 11951,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "count": 1257,
+    "businessesFound": 7554,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "count": 5489,
+    "businessesFound": 18015,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "count": 3937,
+    "businessesFound": 25791,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "count": 228,
+    "businessesFound": 1358,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "count": 794,
+    "businessesFound": null,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T04:37:11.636Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "count": 145,
+    "businessesFound": 2115,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  }
+]

@@ -1,0 +1,391 @@
+Country,Niche,Label,City,Without Website,Businesses Found,Release,Computed At
+AU,accountants,Accountants,Perth,14,385,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Adelaide,12,287,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Gold Coast,5,190,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Hobart,3,37,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Newcastle,1,28,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Darwin,1,30,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,accountants,Accountants,Canberra,0,77,2026-10-21.0,2026-10-28T08:52:29.168Z
+AU,dentists,Dentists,Perth,40,477,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Adelaide,36,376,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Gold Coast,9,192,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Canberra,4,121,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Hobart,3,62,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Newcastle,1,18,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,dentists,Dentists,Darwin,0,22,2026-10-21.0,2026-10-28T08:46:48.035Z
+AU,gyms,Gyms,Adelaide,54,358,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Perth,47,425,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Gold Coast,33,233,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Canberra,15,110,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Darwin,12,37,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Hobart,8,79,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,gyms,Gyms,Newcastle,1,23,2026-10-21.0,2026-10-28T08:53:42.212Z
+AU,hair-salons,Hair salons,Adelaide,305,683,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Perth,222,631,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Gold Coast,90,343,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Hobart,61,128,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Canberra,58,174,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Darwin,18,55,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,hair-salons,Hair salons,Newcastle,11,39,2026-10-21.0,2026-10-28T08:47:52.955Z
+AU,lawyers,Law firms,Adelaide,6,284,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Perth,3,363,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Gold Coast,3,232,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Canberra,2,88,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Newcastle,1,57,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Hobart,0,33,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,lawyers,Law firms,Darwin,0,26,2026-10-21.0,2026-10-28T08:49:05.833Z
+AU,pest-control,Pest control companies,Adelaide,1,29,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Gold Coast,1,43,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Perth,0,62,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Canberra,0,17,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Newcastle,0,1,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Hobart,0,4,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,pest-control,Pest control companies,Darwin,0,7,2026-10-21.0,2026-10-28T08:50:14.532Z
+AU,plumbers,Plumbers,Gold Coast,4,68,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,plumbers,Plumbers,Perth,3,136,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,plumbers,Plumbers,Adelaide,2,90,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,plumbers,Plumbers,Canberra,2,40,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,plumbers,Plumbers,Darwin,2,21,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,plumbers,Plumbers,Hobart,1,27,2026-10-21.0,2026-10-28T08:45:40.592Z
+AU,veterinarians,Veterinarians,Perth,5,113,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Adelaide,4,98,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Gold Coast,4,42,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Hobart,3,24,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Canberra,2,35,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Newcastle,0,2,2026-10-21.0,2026-10-28T08:51:19.912Z
+AU,veterinarians,Veterinarians,Darwin,0,10,2026-10-21.0,2026-10-28T08:51:19.912Z
+CA,accountants,Accountants,Montreal,27,370,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Toronto,26,626,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Edmonton,12,157,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Calgary,9,198,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Mississauga,9,179,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Quebec City,8,72,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Winnipeg,7,78,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Hamilton,6,122,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,accountants,Accountants,Vancouver,5,131,2026-10-21.0,2026-10-28T09:05:34.118Z
+CA,dentists,Dentists,Toronto,115,1654,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Montreal,88,940,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Vancouver,41,386,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Calgary,28,595,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Edmonton,27,537,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Hamilton,25,446,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Winnipeg,16,219,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Mississauga,15,378,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,dentists,Dentists,Quebec City,11,184,2026-10-21.0,2026-10-28T08:58:14.815Z
+CA,electricians,Electricians,Toronto,76,987,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Montreal,60,716,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Edmonton,23,200,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Calgary,22,281,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Mississauga,21,236,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Vancouver,18,158,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Hamilton,17,192,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Winnipeg,13,134,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,electricians,Electricians,Quebec City,9,146,2026-10-21.0,2026-10-28T08:56:43.440Z
+CA,gyms,Gyms,Montreal,65,491,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Toronto,55,591,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Edmonton,19,171,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Hamilton,18,160,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Calgary,17,185,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Mississauga,17,107,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Vancouver,14,173,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Quebec City,13,78,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,gyms,Gyms,Winnipeg,11,102,2026-10-21.0,2026-10-28T09:07:08.949Z
+CA,hair-salons,Hair salons,Montreal,458,1118,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Toronto,281,1159,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Quebec City,146,327,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Edmonton,107,393,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Calgary,79,341,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Vancouver,78,383,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Hamilton,76,318,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Winnipeg,73,212,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,hair-salons,Hair salons,Mississauga,52,204,2026-10-21.0,2026-10-28T08:59:40.939Z
+CA,lawyers,Law firms,Toronto,66,1832,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Mississauga,38,520,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Montreal,34,600,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Vancouver,13,372,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Calgary,13,411,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Edmonton,12,356,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Winnipeg,10,162,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Hamilton,8,211,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,lawyers,Law firms,Quebec City,5,92,2026-10-21.0,2026-10-28T09:01:08.900Z
+CA,pest-control,Pest control companies,Toronto,2,69,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Montreal,2,67,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Winnipeg,2,10,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Edmonton,1,20,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Hamilton,1,17,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Vancouver,0,12,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Calgary,0,12,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Quebec City,0,12,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,pest-control,Pest control companies,Mississauga,0,18,2026-10-21.0,2026-10-28T09:02:38.228Z
+CA,plumbers,Plumbers,Calgary,10,81,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Edmonton,9,75,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Toronto,7,183,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Montreal,6,126,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Winnipeg,3,39,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Mississauga,3,36,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Vancouver,2,41,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Hamilton,2,48,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,plumbers,Plumbers,Quebec City,1,27,2026-10-21.0,2026-10-28T08:55:15.388Z
+CA,veterinarians,Veterinarians,Montreal,5,98,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Vancouver,5,58,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Edmonton,5,85,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Toronto,3,208,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Quebec City,2,19,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Hamilton,2,92,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Mississauga,2,67,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Calgary,1,96,2026-10-21.0,2026-10-28T09:04:06.056Z
+CA,veterinarians,Veterinarians,Winnipeg,0,47,2026-10-21.0,2026-10-28T09:04:06.056Z
+GB,accountants,Accountants,London,1267,4882,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Birmingham,122,516,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Manchester,92,387,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Leeds,70,286,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Glasgow,59,233,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Bristol,47,208,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Sheffield,38,169,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Cardiff,36,130,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Liverpool,35,128,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Edinburgh,34,148,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Nottingham,34,138,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,accountants,Accountants,Newcastle upon Tyne,21,87,2026-10-21.0,2026-10-28T08:42:16.137Z
+GB,dentists,Dentists,London,522,2844,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Birmingham,65,327,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Manchester,61,247,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Glasgow,55,290,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Leeds,32,201,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Sheffield,30,143,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Liverpool,24,119,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Bristol,22,139,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Nottingham,19,105,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Newcastle upon Tyne,17,73,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Edinburgh,14,152,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,dentists,Dentists,Cardiff,14,110,2026-10-21.0,2026-10-28T08:29:40.414Z
+GB,gyms,Gyms,London,295,2245,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Birmingham,67,308,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Leeds,53,253,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Glasgow,53,267,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Manchester,43,255,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Sheffield,41,179,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Liverpool,39,149,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Bristol,27,210,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Newcastle upon Tyne,27,125,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Edinburgh,22,152,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Cardiff,20,146,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,gyms,Gyms,Nottingham,15,90,2026-10-21.0,2026-10-28T08:44:30.598Z
+GB,hair-salons,Hair salons,London,1763,4705,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Birmingham,372,755,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Glasgow,332,610,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Leeds,321,619,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Manchester,262,522,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Liverpool,192,339,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Sheffield,179,357,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Bristol,123,356,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Edinburgh,119,333,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Nottingham,113,253,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Cardiff,111,280,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,hair-salons,Hair salons,Newcastle upon Tyne,101,207,2026-10-21.0,2026-10-28T08:32:05.071Z
+GB,lawyers,Law firms,London,652,3481,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Glasgow,71,311,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Manchester,69,409,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Birmingham,59,342,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Liverpool,25,145,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Leeds,24,202,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Cardiff,16,105,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Newcastle upon Tyne,13,89,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Sheffield,12,71,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Edinburgh,9,129,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Nottingham,9,80,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,lawyers,Law firms,Bristol,6,93,2026-10-21.0,2026-10-28T08:34:12.807Z
+GB,pest-control,Pest control companies,London,110,424,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Birmingham,11,38,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Sheffield,5,16,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Glasgow,4,13,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Bristol,4,21,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Nottingham,3,14,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Manchester,2,23,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Leeds,2,24,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Liverpool,2,15,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Newcastle upon Tyne,2,4,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Edinburgh,1,23,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,pest-control,Pest control companies,Cardiff,1,7,2026-10-21.0,2026-10-28T08:39:55.881Z
+GB,plumbers,Plumbers,London,977,2251,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Birmingham,116,229,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Leeds,75,197,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Bristol,55,164,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Sheffield,52,99,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Cardiff,41,104,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Manchester,36,108,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Nottingham,31,83,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Liverpool,24,78,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Edinburgh,24,96,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Glasgow,23,118,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,plumbers,Plumbers,Newcastle upon Tyne,19,49,2026-10-21.0,2026-10-28T08:27:26.196Z
+GB,veterinarians,Veterinarians,London,25,274,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Glasgow,6,44,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Bristol,4,29,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Edinburgh,4,36,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Newcastle upon Tyne,4,16,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Birmingham,3,33,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Leeds,3,38,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Sheffield,3,23,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Cardiff,3,22,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Nottingham,1,12,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Manchester,0,24,2026-10-21.0,2026-10-28T08:37:40.838Z
+GB,veterinarians,Veterinarians,Liverpool,0,13,2026-10-21.0,2026-10-28T08:37:40.838Z
+NZ,dentists,Dentists,Auckland,19,266,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Christchurch,6,73,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Wellington,3,48,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Tauranga,3,27,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Rotorua,3,7,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Hamilton,2,31,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Dunedin,2,16,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Napier,2,12,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Palmerston North,1,10,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,dentists,Dentists,Nelson,1,12,2026-10-21.0,2026-10-28T09:11:39.907Z
+NZ,electricians,Electricians,Auckland,10,275,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Christchurch,6,75,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Napier,3,17,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Hamilton,2,45,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Dunedin,1,17,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Palmerston North,1,17,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Nelson,1,14,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Wellington,0,63,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Tauranga,0,33,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,electricians,Electricians,Rotorua,0,6,2026-10-21.0,2026-10-28T09:10:07.970Z
+NZ,hair-salons,Hair salons,Auckland,88,283,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Christchurch,52,117,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Wellington,24,78,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Hamilton,17,42,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Napier,16,20,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Tauranga,13,43,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Palmerston North,11,18,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Dunedin,9,27,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Nelson,6,19,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,hair-salons,Hair salons,Rotorua,5,12,2026-10-21.0,2026-10-28T09:13:14.655Z
+NZ,lawyers,Law firms,Tauranga,3,22,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Rotorua,3,6,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Christchurch,2,34,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Hamilton,2,22,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Auckland,1,140,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Palmerston North,1,8,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Wellington,0,19,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Dunedin,0,12,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Napier,0,3,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,lawyers,Law firms,Nelson,0,6,2026-10-21.0,2026-10-28T09:14:40.848Z
+NZ,pest-control,Pest control companies,Auckland,2,8,2026-10-21.0,2026-10-28T09:16:06.088Z
+NZ,pest-control,Pest control companies,Wellington,0,1,2026-10-21.0,2026-10-28T09:16:06.088Z
+NZ,pest-control,Pest control companies,Christchurch,0,2,2026-10-21.0,2026-10-28T09:16:06.088Z
+NZ,pest-control,Pest control companies,Rotorua,0,2,2026-10-21.0,2026-10-28T09:16:06.088Z
+NZ,plumbers,Plumbers,Auckland,1,26,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Christchurch,1,5,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Napier,1,4,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Rotorua,1,3,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Wellington,0,7,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Hamilton,0,7,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Tauranga,0,6,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Palmerston North,0,2,2026-10-21.0,2026-10-28T09:08:42.149Z
+NZ,plumbers,Plumbers,Nelson,0,3,2026-10-21.0,2026-10-28T09:08:42.149Z
+SG,lawyers,Law firms,Orchard,9,104,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Woodlands,3,5,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Raffles Place,2,16,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Jurong East,1,1,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Ang Mo Kio,1,2,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Toa Payoh,1,10,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Bugis,0,2,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Bedok,0,1,2026-10-21.0,2026-10-28T08:06:11.212Z
+SG,lawyers,Law firms,Bukit Timah,0,2,2026-10-21.0,2026-10-28T08:06:11.212Z
+US,accountants,Accountants,New York,473,2177,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Los Angeles,306,1597,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Houston,160,1001,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Chicago,139,689,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Dallas,106,663,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,San Diego,95,573,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Phoenix,77,473,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Miami,72,418,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Philadelphia,56,310,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,San Antonio,36,257,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Seattle,29,174,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,accountants,Accountants,Austin,28,299,2026-10-21.0,2026-10-28T08:22:58.377Z
+US,dentists,Dentists,New York,874,4423,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Los Angeles,583,3130,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,San Diego,274,1461,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Houston,258,2159,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Chicago,243,1384,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Dallas,173,1277,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Phoenix,131,931,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Philadelphia,114,683,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,San Antonio,109,707,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Miami,98,390,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Austin,53,589,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,dentists,Dentists,Seattle,45,420,2026-10-21.0,2026-10-28T08:11:14.226Z
+US,electricians,Electricians,New York,1116,2960,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Los Angeles,610,2112,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Houston,475,1647,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Dallas,222,1028,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Chicago,208,826,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,San Diego,161,781,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Phoenix,159,681,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Miami,145,449,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Philadelphia,130,434,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,San Antonio,100,394,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Austin,71,435,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,electricians,Electricians,Seattle,27,204,2026-10-21.0,2026-10-28T08:08:35.103Z
+US,gyms,Gyms,Houston,233,1075,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,New York,208,1575,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Los Angeles,198,1185,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Dallas,104,501,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Chicago,90,620,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,San Antonio,88,363,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,San Diego,85,619,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Phoenix,82,434,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Austin,53,355,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Philadelphia,52,386,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Miami,38,218,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,gyms,Gyms,Seattle,26,223,2026-10-21.0,2026-10-28T08:25:15.371Z
+US,hair-salons,Hair salons,New York,1450,4340,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Houston,871,2521,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Los Angeles,687,2639,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Chicago,530,1769,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Dallas,400,1282,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Philadelphia,319,1040,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,San Antonio,313,806,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Phoenix,267,934,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,San Diego,255,1092,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Austin,177,734,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Miami,139,406,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,hair-salons,Hair salons,Seattle,81,452,2026-10-21.0,2026-10-28T08:13:34.429Z
+US,lawyers,Law firms,New York,998,5951,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Los Angeles,623,4496,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Houston,420,2932,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Chicago,396,2476,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Miami,278,1462,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Dallas,258,1632,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,San Diego,226,1734,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Phoenix,194,1242,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Philadelphia,165,1191,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,San Antonio,145,960,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Austin,125,952,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,lawyers,Law firms,Seattle,109,763,2026-10-21.0,2026-10-28T08:15:52.988Z
+US,pest-control,Pest control companies,New York,59,326,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Los Angeles,39,207,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Houston,24,209,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,San Antonio,19,87,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Dallas,19,95,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Chicago,18,77,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Phoenix,16,126,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Philadelphia,11,58,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Austin,8,39,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,San Diego,7,86,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Miami,7,31,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,pest-control,Pest control companies,Seattle,1,17,2026-10-21.0,2026-10-28T08:18:16.761Z
+US,veterinarians,Veterinarians,New York,31,357,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,San Diego,21,196,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Los Angeles,16,295,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Houston,16,322,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,San Antonio,10,139,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Miami,10,62,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Philadelphia,9,94,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Dallas,9,138,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Austin,9,118,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Phoenix,8,172,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Chicago,6,169,2026-10-21.0,2026-10-28T08:20:33.606Z
+US,veterinarians,Veterinarians,Seattle,0,53,2026-10-21.0,2026-10-28T08:20:33.606Z

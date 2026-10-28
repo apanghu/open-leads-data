@@ -1,0 +1,3902 @@
+[
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Perth",
+    "count": 14,
+    "businessesFound": 385,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Adelaide",
+    "count": 12,
+    "businessesFound": 287,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Gold Coast",
+    "count": 5,
+    "businessesFound": 190,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Hobart",
+    "count": 3,
+    "businessesFound": 37,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Newcastle",
+    "count": 1,
+    "businessesFound": 28,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Darwin",
+    "count": 1,
+    "businessesFound": 30,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Canberra",
+    "count": 0,
+    "businessesFound": 77,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:52:29.168Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Perth",
+    "count": 40,
+    "businessesFound": 477,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Adelaide",
+    "count": 36,
+    "businessesFound": 376,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Gold Coast",
+    "count": 9,
+    "businessesFound": 192,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Canberra",
+    "count": 4,
+    "businessesFound": 121,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Hobart",
+    "count": 3,
+    "businessesFound": 62,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Newcastle",
+    "count": 1,
+    "businessesFound": 18,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Darwin",
+    "count": 0,
+    "businessesFound": 22,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:46:48.035Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Adelaide",
+    "count": 54,
+    "businessesFound": 358,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Perth",
+    "count": 47,
+    "businessesFound": 425,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Gold Coast",
+    "count": 33,
+    "businessesFound": 233,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Canberra",
+    "count": 15,
+    "businessesFound": 110,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Darwin",
+    "count": 12,
+    "businessesFound": 37,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Hobart",
+    "count": 8,
+    "businessesFound": 79,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Newcastle",
+    "count": 1,
+    "businessesFound": 23,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:53:42.212Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Adelaide",
+    "count": 305,
+    "businessesFound": 683,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Perth",
+    "count": 222,
+    "businessesFound": 631,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Gold Coast",
+    "count": 90,
+    "businessesFound": 343,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Hobart",
+    "count": 61,
+    "businessesFound": 128,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Canberra",
+    "count": 58,
+    "businessesFound": 174,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Darwin",
+    "count": 18,
+    "businessesFound": 55,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Newcastle",
+    "count": 11,
+    "businessesFound": 39,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:47:52.955Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Adelaide",
+    "count": 6,
+    "businessesFound": 284,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Perth",
+    "count": 3,
+    "businessesFound": 363,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Gold Coast",
+    "count": 3,
+    "businessesFound": 232,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Canberra",
+    "count": 2,
+    "businessesFound": 88,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Newcastle",
+    "count": 1,
+    "businessesFound": 57,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Hobart",
+    "count": 0,
+    "businessesFound": 33,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Darwin",
+    "count": 0,
+    "businessesFound": 26,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:49:05.833Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Adelaide",
+    "count": 1,
+    "businessesFound": 29,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Gold Coast",
+    "count": 1,
+    "businessesFound": 43,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Perth",
+    "count": 0,
+    "businessesFound": 62,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Canberra",
+    "count": 0,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Newcastle",
+    "count": 0,
+    "businessesFound": 1,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Hobart",
+    "count": 0,
+    "businessesFound": 4,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Darwin",
+    "count": 0,
+    "businessesFound": 7,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:50:14.532Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Gold Coast",
+    "count": 4,
+    "businessesFound": 68,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Perth",
+    "count": 3,
+    "businessesFound": 136,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Adelaide",
+    "count": 2,
+    "businessesFound": 90,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Canberra",
+    "count": 2,
+    "businessesFound": 40,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Darwin",
+    "count": 2,
+    "businessesFound": 21,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Hobart",
+    "count": 1,
+    "businessesFound": 27,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:45:40.592Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Perth",
+    "count": 5,
+    "businessesFound": 113,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Adelaide",
+    "count": 4,
+    "businessesFound": 98,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Gold Coast",
+    "count": 4,
+    "businessesFound": 42,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Hobart",
+    "count": 3,
+    "businessesFound": 24,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Canberra",
+    "count": 2,
+    "businessesFound": 35,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Newcastle",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "AU",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Darwin",
+    "count": 0,
+    "businessesFound": 10,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:51:19.912Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Montreal",
+    "count": 27,
+    "businessesFound": 370,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Toronto",
+    "count": 26,
+    "businessesFound": 626,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Edmonton",
+    "count": 12,
+    "businessesFound": 157,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Calgary",
+    "count": 9,
+    "businessesFound": 198,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Mississauga",
+    "count": 9,
+    "businessesFound": 179,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Quebec City",
+    "count": 8,
+    "businessesFound": 72,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Winnipeg",
+    "count": 7,
+    "businessesFound": 78,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Hamilton",
+    "count": 6,
+    "businessesFound": 122,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Vancouver",
+    "count": 5,
+    "businessesFound": 131,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:05:34.118Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Toronto",
+    "count": 115,
+    "businessesFound": 1654,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Montreal",
+    "count": 88,
+    "businessesFound": 940,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Vancouver",
+    "count": 41,
+    "businessesFound": 386,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Calgary",
+    "count": 28,
+    "businessesFound": 595,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Edmonton",
+    "count": 27,
+    "businessesFound": 537,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Hamilton",
+    "count": 25,
+    "businessesFound": 446,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Winnipeg",
+    "count": 16,
+    "businessesFound": 219,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Mississauga",
+    "count": 15,
+    "businessesFound": 378,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Quebec City",
+    "count": 11,
+    "businessesFound": 184,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:58:14.815Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Toronto",
+    "count": 76,
+    "businessesFound": 987,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Montreal",
+    "count": 60,
+    "businessesFound": 716,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Edmonton",
+    "count": 23,
+    "businessesFound": 200,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Calgary",
+    "count": 22,
+    "businessesFound": 281,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Mississauga",
+    "count": 21,
+    "businessesFound": 236,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Vancouver",
+    "count": 18,
+    "businessesFound": 158,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Hamilton",
+    "count": 17,
+    "businessesFound": 192,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Winnipeg",
+    "count": 13,
+    "businessesFound": 134,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Quebec City",
+    "count": 9,
+    "businessesFound": 146,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:56:43.440Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Montreal",
+    "count": 65,
+    "businessesFound": 491,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Toronto",
+    "count": 55,
+    "businessesFound": 591,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Edmonton",
+    "count": 19,
+    "businessesFound": 171,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Hamilton",
+    "count": 18,
+    "businessesFound": 160,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Calgary",
+    "count": 17,
+    "businessesFound": 185,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Mississauga",
+    "count": 17,
+    "businessesFound": 107,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Vancouver",
+    "count": 14,
+    "businessesFound": 173,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Quebec City",
+    "count": 13,
+    "businessesFound": 78,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Winnipeg",
+    "count": 11,
+    "businessesFound": 102,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:07:08.949Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Montreal",
+    "count": 458,
+    "businessesFound": 1118,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Toronto",
+    "count": 281,
+    "businessesFound": 1159,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Quebec City",
+    "count": 146,
+    "businessesFound": 327,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Edmonton",
+    "count": 107,
+    "businessesFound": 393,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Calgary",
+    "count": 79,
+    "businessesFound": 341,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Vancouver",
+    "count": 78,
+    "businessesFound": 383,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Hamilton",
+    "count": 76,
+    "businessesFound": 318,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Winnipeg",
+    "count": 73,
+    "businessesFound": 212,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Mississauga",
+    "count": 52,
+    "businessesFound": 204,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:59:40.939Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Toronto",
+    "count": 66,
+    "businessesFound": 1832,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Mississauga",
+    "count": 38,
+    "businessesFound": 520,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Montreal",
+    "count": 34,
+    "businessesFound": 600,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Vancouver",
+    "count": 13,
+    "businessesFound": 372,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Calgary",
+    "count": 13,
+    "businessesFound": 411,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Edmonton",
+    "count": 12,
+    "businessesFound": 356,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Winnipeg",
+    "count": 10,
+    "businessesFound": 162,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Hamilton",
+    "count": 8,
+    "businessesFound": 211,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Quebec City",
+    "count": 5,
+    "businessesFound": 92,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:01:08.900Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Toronto",
+    "count": 2,
+    "businessesFound": 69,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Montreal",
+    "count": 2,
+    "businessesFound": 67,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Winnipeg",
+    "count": 2,
+    "businessesFound": 10,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Edmonton",
+    "count": 1,
+    "businessesFound": 20,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Hamilton",
+    "count": 1,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Vancouver",
+    "count": 0,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Calgary",
+    "count": 0,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Quebec City",
+    "count": 0,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Mississauga",
+    "count": 0,
+    "businessesFound": 18,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:02:38.228Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Calgary",
+    "count": 10,
+    "businessesFound": 81,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Edmonton",
+    "count": 9,
+    "businessesFound": 75,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Toronto",
+    "count": 7,
+    "businessesFound": 183,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Montreal",
+    "count": 6,
+    "businessesFound": 126,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Winnipeg",
+    "count": 3,
+    "businessesFound": 39,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Mississauga",
+    "count": 3,
+    "businessesFound": 36,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Vancouver",
+    "count": 2,
+    "businessesFound": 41,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Hamilton",
+    "count": 2,
+    "businessesFound": 48,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Quebec City",
+    "count": 1,
+    "businessesFound": 27,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:55:15.388Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Montreal",
+    "count": 5,
+    "businessesFound": 98,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Vancouver",
+    "count": 5,
+    "businessesFound": 58,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Edmonton",
+    "count": 5,
+    "businessesFound": 85,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Toronto",
+    "count": 3,
+    "businessesFound": 208,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Quebec City",
+    "count": 2,
+    "businessesFound": 19,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Hamilton",
+    "count": 2,
+    "businessesFound": 92,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Mississauga",
+    "count": 2,
+    "businessesFound": 67,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Calgary",
+    "count": 1,
+    "businessesFound": 96,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "CA",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Winnipeg",
+    "count": 0,
+    "businessesFound": 47,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:04:06.056Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "London",
+    "count": 1267,
+    "businessesFound": 4882,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Birmingham",
+    "count": 122,
+    "businessesFound": 516,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Manchester",
+    "count": 92,
+    "businessesFound": 387,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Leeds",
+    "count": 70,
+    "businessesFound": 286,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Glasgow",
+    "count": 59,
+    "businessesFound": 233,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Bristol",
+    "count": 47,
+    "businessesFound": 208,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Sheffield",
+    "count": 38,
+    "businessesFound": 169,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Cardiff",
+    "count": 36,
+    "businessesFound": 130,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Liverpool",
+    "count": 35,
+    "businessesFound": 128,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Edinburgh",
+    "count": 34,
+    "businessesFound": 148,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Nottingham",
+    "count": 34,
+    "businessesFound": 138,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Newcastle upon Tyne",
+    "count": 21,
+    "businessesFound": 87,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:42:16.137Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "London",
+    "count": 522,
+    "businessesFound": 2844,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Birmingham",
+    "count": 65,
+    "businessesFound": 327,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Manchester",
+    "count": 61,
+    "businessesFound": 247,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Glasgow",
+    "count": 55,
+    "businessesFound": 290,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Leeds",
+    "count": 32,
+    "businessesFound": 201,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Sheffield",
+    "count": 30,
+    "businessesFound": 143,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Liverpool",
+    "count": 24,
+    "businessesFound": 119,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Bristol",
+    "count": 22,
+    "businessesFound": 139,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Nottingham",
+    "count": 19,
+    "businessesFound": 105,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Newcastle upon Tyne",
+    "count": 17,
+    "businessesFound": 73,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Edinburgh",
+    "count": 14,
+    "businessesFound": 152,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Cardiff",
+    "count": 14,
+    "businessesFound": 110,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:29:40.414Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "London",
+    "count": 295,
+    "businessesFound": 2245,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Birmingham",
+    "count": 67,
+    "businessesFound": 308,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Leeds",
+    "count": 53,
+    "businessesFound": 253,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Glasgow",
+    "count": 53,
+    "businessesFound": 267,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Manchester",
+    "count": 43,
+    "businessesFound": 255,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Sheffield",
+    "count": 41,
+    "businessesFound": 179,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Liverpool",
+    "count": 39,
+    "businessesFound": 149,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Bristol",
+    "count": 27,
+    "businessesFound": 210,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Newcastle upon Tyne",
+    "count": 27,
+    "businessesFound": 125,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Edinburgh",
+    "count": 22,
+    "businessesFound": 152,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Cardiff",
+    "count": 20,
+    "businessesFound": 146,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Nottingham",
+    "count": 15,
+    "businessesFound": 90,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:44:30.598Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "London",
+    "count": 1763,
+    "businessesFound": 4705,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Birmingham",
+    "count": 372,
+    "businessesFound": 755,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Glasgow",
+    "count": 332,
+    "businessesFound": 610,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Leeds",
+    "count": 321,
+    "businessesFound": 619,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Manchester",
+    "count": 262,
+    "businessesFound": 522,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Liverpool",
+    "count": 192,
+    "businessesFound": 339,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Sheffield",
+    "count": 179,
+    "businessesFound": 357,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Bristol",
+    "count": 123,
+    "businessesFound": 356,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Edinburgh",
+    "count": 119,
+    "businessesFound": 333,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Nottingham",
+    "count": 113,
+    "businessesFound": 253,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Cardiff",
+    "count": 111,
+    "businessesFound": 280,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Newcastle upon Tyne",
+    "count": 101,
+    "businessesFound": 207,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:32:05.071Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "London",
+    "count": 652,
+    "businessesFound": 3481,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Glasgow",
+    "count": 71,
+    "businessesFound": 311,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Manchester",
+    "count": 69,
+    "businessesFound": 409,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Birmingham",
+    "count": 59,
+    "businessesFound": 342,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Liverpool",
+    "count": 25,
+    "businessesFound": 145,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Leeds",
+    "count": 24,
+    "businessesFound": 202,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Cardiff",
+    "count": 16,
+    "businessesFound": 105,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Newcastle upon Tyne",
+    "count": 13,
+    "businessesFound": 89,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Sheffield",
+    "count": 12,
+    "businessesFound": 71,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Edinburgh",
+    "count": 9,
+    "businessesFound": 129,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Nottingham",
+    "count": 9,
+    "businessesFound": 80,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Bristol",
+    "count": 6,
+    "businessesFound": 93,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:34:12.807Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "London",
+    "count": 110,
+    "businessesFound": 424,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Birmingham",
+    "count": 11,
+    "businessesFound": 38,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Sheffield",
+    "count": 5,
+    "businessesFound": 16,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Glasgow",
+    "count": 4,
+    "businessesFound": 13,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Bristol",
+    "count": 4,
+    "businessesFound": 21,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Nottingham",
+    "count": 3,
+    "businessesFound": 14,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Manchester",
+    "count": 2,
+    "businessesFound": 23,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Leeds",
+    "count": 2,
+    "businessesFound": 24,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Liverpool",
+    "count": 2,
+    "businessesFound": 15,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Newcastle upon Tyne",
+    "count": 2,
+    "businessesFound": 4,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Edinburgh",
+    "count": 1,
+    "businessesFound": 23,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Cardiff",
+    "count": 1,
+    "businessesFound": 7,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:39:55.881Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "London",
+    "count": 977,
+    "businessesFound": 2251,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Birmingham",
+    "count": 116,
+    "businessesFound": 229,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Leeds",
+    "count": 75,
+    "businessesFound": 197,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Bristol",
+    "count": 55,
+    "businessesFound": 164,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Sheffield",
+    "count": 52,
+    "businessesFound": 99,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Cardiff",
+    "count": 41,
+    "businessesFound": 104,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Manchester",
+    "count": 36,
+    "businessesFound": 108,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Nottingham",
+    "count": 31,
+    "businessesFound": 83,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Liverpool",
+    "count": 24,
+    "businessesFound": 78,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Edinburgh",
+    "count": 24,
+    "businessesFound": 96,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Glasgow",
+    "count": 23,
+    "businessesFound": 118,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Newcastle upon Tyne",
+    "count": 19,
+    "businessesFound": 49,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:27:26.196Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "London",
+    "count": 25,
+    "businessesFound": 274,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Glasgow",
+    "count": 6,
+    "businessesFound": 44,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Bristol",
+    "count": 4,
+    "businessesFound": 29,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Edinburgh",
+    "count": 4,
+    "businessesFound": 36,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Newcastle upon Tyne",
+    "count": 4,
+    "businessesFound": 16,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Birmingham",
+    "count": 3,
+    "businessesFound": 33,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Leeds",
+    "count": 3,
+    "businessesFound": 38,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Sheffield",
+    "count": 3,
+    "businessesFound": 23,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Cardiff",
+    "count": 3,
+    "businessesFound": 22,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Nottingham",
+    "count": 1,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Manchester",
+    "count": 0,
+    "businessesFound": 24,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "GB",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Liverpool",
+    "count": 0,
+    "businessesFound": 13,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:37:40.838Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Auckland",
+    "count": 19,
+    "businessesFound": 266,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Christchurch",
+    "count": 6,
+    "businessesFound": 73,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Wellington",
+    "count": 3,
+    "businessesFound": 48,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Tauranga",
+    "count": 3,
+    "businessesFound": 27,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Rotorua",
+    "count": 3,
+    "businessesFound": 7,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Hamilton",
+    "count": 2,
+    "businessesFound": 31,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Dunedin",
+    "count": 2,
+    "businessesFound": 16,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Napier",
+    "count": 2,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Palmerston North",
+    "count": 1,
+    "businessesFound": 10,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Nelson",
+    "count": 1,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:11:39.907Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Auckland",
+    "count": 10,
+    "businessesFound": 275,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Christchurch",
+    "count": 6,
+    "businessesFound": 75,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Napier",
+    "count": 3,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Hamilton",
+    "count": 2,
+    "businessesFound": 45,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Dunedin",
+    "count": 1,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Palmerston North",
+    "count": 1,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Nelson",
+    "count": 1,
+    "businessesFound": 14,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Wellington",
+    "count": 0,
+    "businessesFound": 63,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Tauranga",
+    "count": 0,
+    "businessesFound": 33,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Rotorua",
+    "count": 0,
+    "businessesFound": 6,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:10:07.970Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Auckland",
+    "count": 88,
+    "businessesFound": 283,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Christchurch",
+    "count": 52,
+    "businessesFound": 117,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Wellington",
+    "count": 24,
+    "businessesFound": 78,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Hamilton",
+    "count": 17,
+    "businessesFound": 42,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Napier",
+    "count": 16,
+    "businessesFound": 20,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Tauranga",
+    "count": 13,
+    "businessesFound": 43,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Palmerston North",
+    "count": 11,
+    "businessesFound": 18,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Dunedin",
+    "count": 9,
+    "businessesFound": 27,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Nelson",
+    "count": 6,
+    "businessesFound": 19,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Rotorua",
+    "count": 5,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:13:14.655Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Tauranga",
+    "count": 3,
+    "businessesFound": 22,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Rotorua",
+    "count": 3,
+    "businessesFound": 6,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Christchurch",
+    "count": 2,
+    "businessesFound": 34,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Hamilton",
+    "count": 2,
+    "businessesFound": 22,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Auckland",
+    "count": 1,
+    "businessesFound": 140,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Palmerston North",
+    "count": 1,
+    "businessesFound": 8,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Wellington",
+    "count": 0,
+    "businessesFound": 19,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Dunedin",
+    "count": 0,
+    "businessesFound": 12,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Napier",
+    "count": 0,
+    "businessesFound": 3,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Nelson",
+    "count": 0,
+    "businessesFound": 6,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:14:40.848Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Auckland",
+    "count": 2,
+    "businessesFound": 8,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:16:06.088Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Wellington",
+    "count": 0,
+    "businessesFound": 1,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:16:06.088Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Christchurch",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:16:06.088Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Rotorua",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:16:06.088Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Auckland",
+    "count": 1,
+    "businessesFound": 26,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Christchurch",
+    "count": 1,
+    "businessesFound": 5,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Napier",
+    "count": 1,
+    "businessesFound": 4,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Rotorua",
+    "count": 1,
+    "businessesFound": 3,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Wellington",
+    "count": 0,
+    "businessesFound": 7,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Hamilton",
+    "count": 0,
+    "businessesFound": 7,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Tauranga",
+    "count": 0,
+    "businessesFound": 6,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Palmerston North",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "NZ",
+    "niche": "plumbers",
+    "label": "Plumbers",
+    "city": "Nelson",
+    "count": 0,
+    "businessesFound": 3,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T09:08:42.149Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Orchard",
+    "count": 9,
+    "businessesFound": 104,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Woodlands",
+    "count": 3,
+    "businessesFound": 5,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Raffles Place",
+    "count": 2,
+    "businessesFound": 16,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Jurong East",
+    "count": 1,
+    "businessesFound": 1,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Ang Mo Kio",
+    "count": 1,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Toa Payoh",
+    "count": 1,
+    "businessesFound": 10,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Bugis",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Bedok",
+    "count": 0,
+    "businessesFound": 1,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "SG",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Bukit Timah",
+    "count": 0,
+    "businessesFound": 2,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:06:11.212Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "New York",
+    "count": 473,
+    "businessesFound": 2177,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Los Angeles",
+    "count": 306,
+    "businessesFound": 1597,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Houston",
+    "count": 160,
+    "businessesFound": 1001,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Chicago",
+    "count": 139,
+    "businessesFound": 689,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Dallas",
+    "count": 106,
+    "businessesFound": 663,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "San Diego",
+    "count": 95,
+    "businessesFound": 573,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Phoenix",
+    "count": 77,
+    "businessesFound": 473,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Miami",
+    "count": 72,
+    "businessesFound": 418,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Philadelphia",
+    "count": 56,
+    "businessesFound": 310,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "San Antonio",
+    "count": 36,
+    "businessesFound": 257,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Seattle",
+    "count": 29,
+    "businessesFound": 174,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "accountants",
+    "label": "Accountants",
+    "city": "Austin",
+    "count": 28,
+    "businessesFound": 299,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:22:58.377Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "New York",
+    "count": 874,
+    "businessesFound": 4423,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Los Angeles",
+    "count": 583,
+    "businessesFound": 3130,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "San Diego",
+    "count": 274,
+    "businessesFound": 1461,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Houston",
+    "count": 258,
+    "businessesFound": 2159,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Chicago",
+    "count": 243,
+    "businessesFound": 1384,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Dallas",
+    "count": 173,
+    "businessesFound": 1277,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Phoenix",
+    "count": 131,
+    "businessesFound": 931,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Philadelphia",
+    "count": 114,
+    "businessesFound": 683,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "San Antonio",
+    "count": 109,
+    "businessesFound": 707,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Miami",
+    "count": 98,
+    "businessesFound": 390,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Austin",
+    "count": 53,
+    "businessesFound": 589,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "dentists",
+    "label": "Dentists",
+    "city": "Seattle",
+    "count": 45,
+    "businessesFound": 420,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:11:14.226Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "New York",
+    "count": 1116,
+    "businessesFound": 2960,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Los Angeles",
+    "count": 610,
+    "businessesFound": 2112,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Houston",
+    "count": 475,
+    "businessesFound": 1647,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Dallas",
+    "count": 222,
+    "businessesFound": 1028,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Chicago",
+    "count": 208,
+    "businessesFound": 826,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "San Diego",
+    "count": 161,
+    "businessesFound": 781,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Phoenix",
+    "count": 159,
+    "businessesFound": 681,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Miami",
+    "count": 145,
+    "businessesFound": 449,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Philadelphia",
+    "count": 130,
+    "businessesFound": 434,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "San Antonio",
+    "count": 100,
+    "businessesFound": 394,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Austin",
+    "count": 71,
+    "businessesFound": 435,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "electricians",
+    "label": "Electricians",
+    "city": "Seattle",
+    "count": 27,
+    "businessesFound": 204,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:08:35.103Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Houston",
+    "count": 233,
+    "businessesFound": 1075,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "New York",
+    "count": 208,
+    "businessesFound": 1575,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Los Angeles",
+    "count": 198,
+    "businessesFound": 1185,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Dallas",
+    "count": 104,
+    "businessesFound": 501,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Chicago",
+    "count": 90,
+    "businessesFound": 620,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "San Antonio",
+    "count": 88,
+    "businessesFound": 363,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "San Diego",
+    "count": 85,
+    "businessesFound": 619,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Phoenix",
+    "count": 82,
+    "businessesFound": 434,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Austin",
+    "count": 53,
+    "businessesFound": 355,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Philadelphia",
+    "count": 52,
+    "businessesFound": 386,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Miami",
+    "count": 38,
+    "businessesFound": 218,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "gyms",
+    "label": "Gyms",
+    "city": "Seattle",
+    "count": 26,
+    "businessesFound": 223,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:25:15.371Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "New York",
+    "count": 1450,
+    "businessesFound": 4340,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Houston",
+    "count": 871,
+    "businessesFound": 2521,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Los Angeles",
+    "count": 687,
+    "businessesFound": 2639,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Chicago",
+    "count": 530,
+    "businessesFound": 1769,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Dallas",
+    "count": 400,
+    "businessesFound": 1282,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Philadelphia",
+    "count": 319,
+    "businessesFound": 1040,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "San Antonio",
+    "count": 313,
+    "businessesFound": 806,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Phoenix",
+    "count": 267,
+    "businessesFound": 934,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "San Diego",
+    "count": 255,
+    "businessesFound": 1092,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Austin",
+    "count": 177,
+    "businessesFound": 734,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Miami",
+    "count": 139,
+    "businessesFound": 406,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "hair-salons",
+    "label": "Hair salons",
+    "city": "Seattle",
+    "count": 81,
+    "businessesFound": 452,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:13:34.429Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "New York",
+    "count": 998,
+    "businessesFound": 5951,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Los Angeles",
+    "count": 623,
+    "businessesFound": 4496,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Houston",
+    "count": 420,
+    "businessesFound": 2932,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Chicago",
+    "count": 396,
+    "businessesFound": 2476,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Miami",
+    "count": 278,
+    "businessesFound": 1462,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Dallas",
+    "count": 258,
+    "businessesFound": 1632,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "San Diego",
+    "count": 226,
+    "businessesFound": 1734,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Phoenix",
+    "count": 194,
+    "businessesFound": 1242,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Philadelphia",
+    "count": 165,
+    "businessesFound": 1191,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "San Antonio",
+    "count": 145,
+    "businessesFound": 960,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Austin",
+    "count": 125,
+    "businessesFound": 952,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "lawyers",
+    "label": "Law firms",
+    "city": "Seattle",
+    "count": 109,
+    "businessesFound": 763,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:15:52.988Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "New York",
+    "count": 59,
+    "businessesFound": 326,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Los Angeles",
+    "count": 39,
+    "businessesFound": 207,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Houston",
+    "count": 24,
+    "businessesFound": 209,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "San Antonio",
+    "count": 19,
+    "businessesFound": 87,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Dallas",
+    "count": 19,
+    "businessesFound": 95,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Chicago",
+    "count": 18,
+    "businessesFound": 77,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Phoenix",
+    "count": 16,
+    "businessesFound": 126,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Philadelphia",
+    "count": 11,
+    "businessesFound": 58,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Austin",
+    "count": 8,
+    "businessesFound": 39,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "San Diego",
+    "count": 7,
+    "businessesFound": 86,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Miami",
+    "count": 7,
+    "businessesFound": 31,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "pest-control",
+    "label": "Pest control companies",
+    "city": "Seattle",
+    "count": 1,
+    "businessesFound": 17,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:18:16.761Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "New York",
+    "count": 31,
+    "businessesFound": 357,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "San Diego",
+    "count": 21,
+    "businessesFound": 196,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Los Angeles",
+    "count": 16,
+    "businessesFound": 295,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Houston",
+    "count": 16,
+    "businessesFound": 322,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "San Antonio",
+    "count": 10,
+    "businessesFound": 139,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Miami",
+    "count": 10,
+    "businessesFound": 62,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Philadelphia",
+    "count": 9,
+    "businessesFound": 94,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Dallas",
+    "count": 9,
+    "businessesFound": 138,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Austin",
+    "count": 9,
+    "businessesFound": 118,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Phoenix",
+    "count": 8,
+    "businessesFound": 172,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Chicago",
+    "count": 6,
+    "businessesFound": 169,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  },
+  {
+    "country": "US",
+    "niche": "veterinarians",
+    "label": "Veterinarians",
+    "city": "Seattle",
+    "count": 0,
+    "businessesFound": 53,
+    "release": "2026-10-21.0",
+    "computedAt": "2026-10-28T08:20:33.606Z"
+  }
+]
